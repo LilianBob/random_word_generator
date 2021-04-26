@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container{
+    margin-top: 100px;
+    display:block;
+    justify-content: center;
+    justify-items: center;
+}
+#functionalBtn{
+    display: flex;
+    width: 18rem;
+    justify-content: space-between;
+}
+.text{
+    width: 18rem;
+    text-align:center;
+}
